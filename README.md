@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everybody
+
+I aim to be a good computer engineer.
